@@ -6,6 +6,10 @@
  * and open the template in the editor. Este cambio puede generar un conflicto.
  */
 
+
+
+echo 'Master PC';
+
 echo 'CAPACITACION GIT-HUB';
 
 echo 'Segunda linea';
