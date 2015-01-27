@@ -12,4 +12,5 @@ echo 'Master PC';
 
 echo 'CAPACITACION GIT-HUB';
 
-echo 'Segunda linea prueba de conflicto desde VIM';
+echo 'Segunda linea';
+echo 'Tercera linea desde vim';
