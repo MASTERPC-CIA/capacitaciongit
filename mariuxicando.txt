@@ -1,3 +1,6 @@
 Nombre: Mariuxi Cando
-Email:  mariuxikate@gmail.com
-Agregando más texto
+Email:  mariuxikade@gmail.com
+
+
+
+Conflictos en GIT
