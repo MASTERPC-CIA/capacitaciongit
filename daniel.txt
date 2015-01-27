@@ -2,8 +2,10 @@
 
 Este es un archivo de prueba con mi nombre
 
-Segunda linea ingresada.
+Cambio en la linea 5
+Inicio modificaciones Jose Quichimbo
 Otras lineas.
+
 
 Daniel Jimenez Gonzalez
 Daniel Jimenez Gonzalez
@@ -11,5 +13,6 @@ Daniel Jimenez Gonzalez
 Daniel Jimenez Gonzalez
 Daniel Jimenez Gonzalez
 Daniel Jimenez Gonzalez
+
 
 
